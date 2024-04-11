@@ -1,4 +1,7 @@
 function output = smooth(inpt, window, kernel_type)
+%
+%   Please note--we don't know who wrote this initial function ("WA"), but we thank them for their contribution! This function was adapted from their code, which was originally found on Harvard Medical School computers in 2016
+%
 % Smoothing function: 
 % output = smooth(inpt, window, type)
 % "Type" should be set to 'gauss' for a gaussian kernel or to 'boxcar'
