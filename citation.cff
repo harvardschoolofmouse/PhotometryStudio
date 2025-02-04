@@ -4,7 +4,7 @@ authors:
 - family-names: Hamilos
   given-names: Allison Elizabeth
   orcid: "https://orcid.org/0000-0001-9486-0017"
-title: "PhotometryStudio -- Signal Processing Methods"
+title: "PhotometryStudio -- Photometry Signal Processing Toolbox"
 version: 0.1.0
 date-released: 2024-04-11
 url: "https://github.com/harvardschoolofmouse/PhotometryStudio"
